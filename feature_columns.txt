@@ -1,0 +1,5 @@
+temperature
+soil_moisture
+days
+time
+moisture_trend
